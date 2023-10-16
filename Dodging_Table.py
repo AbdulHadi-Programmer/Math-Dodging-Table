@@ -26,10 +26,6 @@ def operator_info():
     print(ad, sub, ml, di, ex, fd, mo)
 
 
-
-print(10 / 3)
-
-
 def main():
     print("Welcome to the Math Puzzle Generator!")
     user = int(input("Please specify the number of questions you'd like to tackle: "))
